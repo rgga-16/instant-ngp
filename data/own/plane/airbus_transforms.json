@@ -14,7 +14,7 @@
   "aabb_scale": 1,
   "frames": [
     {
-      "file_path": "./airbus_images_nobg/png/0029.png",
+      "file_path": "./airbus_images/png/0029.png",
       "sharpness": 24.406991701670947,
       "transform_matrix": [
         [
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0028.png",
+      "file_path": "./airbus_images/png/0028.png",
       "sharpness": 20.868868020889884,
       "transform_matrix": [
         [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0026.png",
+      "file_path": "./airbus_images/png/0026.png",
       "sharpness": 32.52802677520394,
       "transform_matrix": [
         [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0027.png",
+      "file_path": "./airbus_images/png/0027.png",
       "sharpness": 30.223592001525336,
       "transform_matrix": [
         [
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0025.png",
+      "file_path": "./airbus_images/png/0025.png",
       "sharpness": 31.158920202870895,
       "transform_matrix": [
         [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0014.png",
+      "file_path": "./airbus_images/png/0014.png",
       "sharpness": 32.44116355646892,
       "transform_matrix": [
         [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0012.png",
+      "file_path": "./airbus_images/png/0012.png",
       "sharpness": 27.75093342495304,
       "transform_matrix": [
         [
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0013.png",
+      "file_path": "./airbus_images/png/0013.png",
       "sharpness": 35.52757701165026,
       "transform_matrix": [
         [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0024.png",
+      "file_path": "./airbus_images/png/0024.png",
       "sharpness": 31.886373504259826,
       "transform_matrix": [
         [
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0023.png",
+      "file_path": "./airbus_images/png/0023.png",
       "sharpness": 31.7598247309346,
       "transform_matrix": [
         [
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0011.png",
+      "file_path": "./airbus_images/png/0011.png",
       "sharpness": 32.45336213205779,
       "transform_matrix": [
         [
@@ -344,7 +344,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0016.png",
+      "file_path": "./airbus_images/png/0016.png",
       "sharpness": 27.152944586407703,
       "transform_matrix": [
         [
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0022.png",
+      "file_path": "./airbus_images/png/0022.png",
       "sharpness": 30.92864304781732,
       "transform_matrix": [
         [
@@ -404,7 +404,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0009.png",
+      "file_path": "./airbus_images/png/0009.png",
       "sharpness": 29.2073808627091,
       "transform_matrix": [
         [
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0015.png",
+      "file_path": "./airbus_images/png/0015.png",
       "sharpness": 17.537467194055637,
       "transform_matrix": [
         [
@@ -464,7 +464,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0018.png",
+      "file_path": "./airbus_images/png/0018.png",
       "sharpness": 22.37394046540415,
       "transform_matrix": [
         [
@@ -494,7 +494,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0006.png",
+      "file_path": "./airbus_images/png/0006.png",
       "sharpness": 30.63694568564124,
       "transform_matrix": [
         [
@@ -524,7 +524,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0046.png",
+      "file_path": "./airbus_images/png/0046.png",
       "sharpness": 21.28049648755656,
       "transform_matrix": [
         [
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0002.png",
+      "file_path": "./airbus_images/png/0002.png",
       "sharpness": 24.57277090432799,
       "transform_matrix": [
         [
@@ -584,7 +584,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0042.png",
+      "file_path": "./airbus_images/png/0042.png",
       "sharpness": 32.767089190918476,
       "transform_matrix": [
         [
@@ -614,7 +614,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0008.png",
+      "file_path": "./airbus_images/png/0008.png",
       "sharpness": 28.750734466425065,
       "transform_matrix": [
         [
@@ -644,7 +644,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0039.png",
+      "file_path": "./airbus_images/png/0039.png",
       "sharpness": 20.71726423914657,
       "transform_matrix": [
         [
@@ -674,7 +674,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0003.png",
+      "file_path": "./airbus_images/png/0003.png",
       "sharpness": 26.38871115942477,
       "transform_matrix": [
         [
@@ -704,7 +704,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0041.png",
+      "file_path": "./airbus_images/png/0041.png",
       "sharpness": 31.975431077586148,
       "transform_matrix": [
         [
@@ -734,7 +734,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0001.png",
+      "file_path": "./airbus_images/png/0001.png",
       "sharpness": 25.163592270535855,
       "transform_matrix": [
         [
@@ -764,7 +764,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0043.png",
+      "file_path": "./airbus_images/png/0043.png",
       "sharpness": 32.347821247861646,
       "transform_matrix": [
         [
@@ -794,7 +794,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0020.png",
+      "file_path": "./airbus_images/png/0020.png",
       "sharpness": 29.316182395744605,
       "transform_matrix": [
         [
@@ -824,7 +824,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0044.png",
+      "file_path": "./airbus_images/png/0044.png",
       "sharpness": 35.62988811040371,
       "transform_matrix": [
         [
@@ -854,7 +854,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0010.png",
+      "file_path": "./airbus_images/png/0010.png",
       "sharpness": 33.32378558170439,
       "transform_matrix": [
         [
@@ -884,7 +884,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0045.png",
+      "file_path": "./airbus_images/png/0045.png",
       "sharpness": 33.23139439072101,
       "transform_matrix": [
         [
@@ -914,7 +914,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0021.png",
+      "file_path": "./airbus_images/png/0021.png",
       "sharpness": 27.086512935992264,
       "transform_matrix": [
         [
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0033.png",
+      "file_path": "./airbus_images/png/0033.png",
       "sharpness": 23.8426059995519,
       "transform_matrix": [
         [
@@ -974,7 +974,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0017.png",
+      "file_path": "./airbus_images/png/0017.png",
       "sharpness": 31.298012886572756,
       "transform_matrix": [
         [
@@ -1004,7 +1004,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0038.png",
+      "file_path": "./airbus_images/png/0038.png",
       "sharpness": 21.471184354504246,
       "transform_matrix": [
         [
@@ -1034,7 +1034,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0019.png",
+      "file_path": "./airbus_images/png/0019.png",
       "sharpness": 21.59095603509389,
       "transform_matrix": [
         [
@@ -1064,7 +1064,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0034.png",
+      "file_path": "./airbus_images/png/0034.png",
       "sharpness": 23.58869370449759,
       "transform_matrix": [
         [
@@ -1094,7 +1094,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0035.png",
+      "file_path": "./airbus_images/png/0035.png",
       "sharpness": 44.23524096087663,
       "transform_matrix": [
         [
@@ -1124,7 +1124,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0037.png",
+      "file_path": "./airbus_images/png/0037.png",
       "sharpness": 40.218826547072105,
       "transform_matrix": [
         [
@@ -1154,7 +1154,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0036.png",
+      "file_path": "./airbus_images/png/0036.png",
       "sharpness": 36.311440376336165,
       "transform_matrix": [
         [
@@ -1184,7 +1184,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0031.png",
+      "file_path": "./airbus_images/png/0031.png",
       "sharpness": 11.639698004543888,
       "transform_matrix": [
         [
@@ -1214,7 +1214,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0004.png",
+      "file_path": "./airbus_images/png/0004.png",
       "sharpness": 25.98947182564697,
       "transform_matrix": [
         [
@@ -1244,7 +1244,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0032.png",
+      "file_path": "./airbus_images/png/0032.png",
       "sharpness": 16.97500068736671,
       "transform_matrix": [
         [
@@ -1274,7 +1274,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0007.png",
+      "file_path": "./airbus_images/png/0007.png",
       "sharpness": 30.50780815906893,
       "transform_matrix": [
         [
@@ -1304,7 +1304,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0030.png",
+      "file_path": "./airbus_images/png/0030.png",
       "sharpness": 26.240764741017955,
       "transform_matrix": [
         [
@@ -1334,7 +1334,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0005.png",
+      "file_path": "./airbus_images/png/0005.png",
       "sharpness": 22.037308241154545,
       "transform_matrix": [
         [
@@ -1364,7 +1364,7 @@
       ]
     },
     {
-      "file_path": "./airbus_images_nobg/png/0040.png",
+      "file_path": "./airbus_images/png/0040.png",
       "sharpness": 18.392139394138063,
       "transform_matrix": [
         [
